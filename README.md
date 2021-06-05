@@ -1,17 +1,17 @@
 RECOMMENDATIONS WITH IBM WATSON STUDIO
 ------------------------------------------
-The FIVE major aspects of this project is as follows:
-
-* I. Exploratory Data Analysis
-* II. Rank Based Recommendations
-* III. User-User Based Collaborative Filtering/Content based
-* IV. Matrix Factorization
-* V. Extras & Concluding
+For this project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
 
 Aims
 ----------------------
-The aim of this project is to analyse the user articles from `articles_community.csv` and the user interactions from `user-item-interactions.csv` and producing different recommendation engines and analyse their performance.
+The project will be divided into the following tasks
+
+ - I. Exploratory Data Analysis
+ - II. Rank Based Recommendations
+ - III. User-User Based Collaborative Filtering
+ - IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
+ - V. Matrix Factorization
 
 
 File Structure
@@ -46,20 +46,3 @@ INSTALLATION
 * Execute `Recommendations_with_IBM.ipynb`
 
 
-
-## Credits
-
-Lead Developer - Deoga Kofi
-
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2020 Deoga Kofi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
